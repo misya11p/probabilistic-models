@@ -2,8 +2,7 @@
 
 確率モデリングを学ぶ。
 
-ちまちま進めていきたい。  
-計画↓
+ちまちま進めていきたい。
 
 ## 1. 確率変数と確率分布
 
@@ -13,24 +12,32 @@
 
 ## 2. 最尤推定
 
+https://github.com/misya11p/probabilistic-modeling/blob/main/ML-estimation.ipynb
+
 - 尤度
 - 最尤推定
 
 ## 3. MAP推定
 
+https://github.com/misya11p/probabilistic-modeling/blob/main/MAP-estimation.ipynb
+
 - ベイズの定理
 - 事後確率
 - MAP推定
 
-## 4. EMアルゴリズム
+## 4. ベイズ推定
+
+https://github.com/misya11p/probabilistic-modeling/blob/main/bayesian-estimation.ipynb
+
+- ベイズ推定
+
+## 5. EMアルゴリズム
+
+https://github.com/misya11p/probabilistic-modeling/blob/main/EM-algorithm.ipynb
 
 - 潜在変数
 - EMアルゴリズム
 - 混合ガウス分布
-
-## 5. ベイズ推定
-
-- ベイズ推定
 
 ## 6. MCMC法
 
@@ -39,19 +46,3 @@
 ## 8. 生成モデルへの応用
 
 ## おまけ 疑似乱数
-
-<br>
-
-## （生成モデル編？）
-
-### 1. VAE
-
-### 2. GAN
-
-### 3. 自己回帰モデル
-
-### 4. Flow
-
-### 5. エネルギーベースモデル
-
-### 6. 拡散モデル
