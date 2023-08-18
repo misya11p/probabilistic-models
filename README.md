@@ -43,6 +43,8 @@ https://github.com/misya11p/probabilistic-modeling/blob/main/bayesian-estimation
 
 ## 5. EMアルゴリズム
 
+途中
+
 - EMアルゴリズム
 - 潜在変数
 - 理論
