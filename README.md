@@ -21,7 +21,7 @@ https://github.com/misya11p/probabilistic-modeling/blob/main/introduction.ipynb
     - 総当たりで求める
     - 解析的に求める
 
-https://github.com/misya11p/probabilistic-modeling/blob/main/ML-estimation.ipynb
+https://github.com/misya11p/probabilistic-modeling/blob/main/ml-estimation.ipynb
 
 ## 3. MAP推定
 
@@ -31,7 +31,7 @@ https://github.com/misya11p/probabilistic-modeling/blob/main/ML-estimation.ipynb
 - 総当たりで求める
 - 解析的に求める
 
-https://github.com/misya11p/probabilistic-modeling/blob/main/MAP-estimation.ipynb
+https://github.com/misya11p/probabilistic-modeling/blob/main/map-estimation.ipynb
 
 ## 4. ベイズ推定
 
@@ -50,7 +50,7 @@ https://github.com/misya11p/probabilistic-modeling/blob/main/bayesian-estimation
 - 理論
 - 混合ガウス分布の推定
 
-https://github.com/misya11p/probabilistic-modeling/blob/main/EM-algorithm.ipynb
+https://github.com/misya11p/probabilistic-modeling/blob/main/em-algorithm.ipynb
 
 ## 6. MCMC法
 
